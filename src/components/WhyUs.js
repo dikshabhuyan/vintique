@@ -4,19 +4,19 @@ function WhyUs() {
     return (
         <section className="why-us">
             <div className="container">
-                <h3 className="section-title">Why Thriftverse?</h3>
+                <h3 className="section-title">Why Vintique?</h3>
                 <div className="values-grid">
                     <div className="value-item">
-                        <h4>🌱 Eco-Friendly</h4>
-                        <p>Every purchase gives clothing a second life and reduces fashion waste.</p>
+                        <h4>✨ Elegant & timeless</h4>
+                        <p>Vintique is your destination for handpicked vintage and preloved pieces that blend classic charm with modern style. Discover treasures that tell a story—sustainably and beautifully.</p>
                     </div>
                     <div className="value-item">
-                        <h4>✨ Quality Inspected</h4>
-                        <p>We hand-check every item to ensure it meets our quality standards.</p>
+                        <h4>🌿 Eco-conscious & minimal</h4>
+                        <p>At Vintique, we believe in fashion with purpose. Explore curated thrift finds that let you express your style while caring for the planet.</p>
                     </div>
                     <div className="value-item">
-                        <h4>💖 Community Focused</h4>
-                        <p>Join a movement of style-conscious, eco-aware individuals.</p>
+                        <h4>🧺 Trendy & youthful</h4>
+                        <p>Vintique brings you the coolest thrift finds, from retro fits to rare gems—because style never goes out of season.</p>
                     </div>
                 </div>
             </div>

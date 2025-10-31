@@ -35,18 +35,18 @@ function FeaturedProducts() {
                     <div className="product-grid">
                          <ProductCard 
                             imgSrc={dress1Image}
-                            title="Used Floral Top"
-                            price="Starting from ₹1499"
+                            title="Gothic Corset Top"
+                            price="Starting from ₹899"
                         />
                         <ProductCard 
                             imgSrc={dress2Image}
-                            title="Halter-neck Dress"
+                            title="Brown Ring Halter Top"
                             price="Starting from ₹799"
                         />
                          <ProductCard 
                             imgSrc={dress4Image}
-                            title="Sequin Lace Halter Top"
-                            price="Starting from ₹1499"
+                            title="Purple Graphic Top"
+                            price="Starting from ₹699"
                         />
                     </div>
                 </div>
@@ -59,17 +59,17 @@ function FeaturedProducts() {
                     <div className="product-grid">
                          <ProductCard 
                             imgSrc={men1Image}
-                            title="Casual Floral Shirt"
-                            price="Starting from ₹2499"
+                            title="Graphic Hoodie"
+                            price="Starting from ₹999"
                         />
                         <ProductCard 
                             imgSrc={men2Image}
-                            title="Used Vintage Jacket"
+                            title="Vintage Leather Jacket"
                             price="Starting from ₹1199"
                         />
                          <ProductCard 
                             imgSrc={men3Image}
-                            title="Draped Pants"
+                            title="Distressed Wide Leg Jeans"
                             price="Starting from ₹1999"
                         />
                     </div>

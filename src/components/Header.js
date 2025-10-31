@@ -15,7 +15,7 @@ function Header({ cartCount, user, onLogout }) {
     return (
         <header className="main-header">
             <div className="container">
-                <Link to="/" className="logo">ThriftVerse</Link>
+                <Link to="/" className="logo">Vintique</Link>
                 <nav className="main-nav">
                     <ul>
                         <li><Link to="/shop">Shop All</Link></li>
